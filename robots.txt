@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucihooto.github.io/CEU/sitemap_index.txt
+Sitemap: https://ucihooto.github.io/ReS/sitemap_index.txt
+Sitemap: https://ucihooto.github.io/RxJ/sitemap_index.txt
+Sitemap: https://ucihooto.github.io/uJp/sitemap_index.txt
